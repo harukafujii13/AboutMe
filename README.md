@@ -26,6 +26,7 @@
 - SASS/SCSS
 - Bootstrap
 - Tailwind
+- Material UI
 - Git
 - GitHub
 
